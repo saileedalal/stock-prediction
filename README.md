@@ -1,1 +1,1 @@
-# stock-prediction
+The project "Stock Prediction" aims to develop a system that utilizes machine learning models to predict stock prices. It involves collecting historical stock market data, preprocessing the data to handle any anomalies, and training machine learning models on the processed data. The trained models can then be used to make predictions about future stock prices, assisting investors in making informed decisions.
